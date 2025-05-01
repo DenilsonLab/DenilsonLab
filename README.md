@@ -1,26 +1,82 @@
-<h1 align="center">Hola 👋, yo soy Denilson Arguello</h1>
-<h3 align="center">Un desarrollador web de Paraguay</h3>
+<h1 align="center">👨‍💻 Hola 👋, yo soy Denilson Arguello</h1>
+<h3 align="center">Un desarrollador web de Paraguay 🇵🇾 apasionado por la tecnología, el diseño y las ideas</h3>
 
-- 🔭Actualmente trabajo de **Freelancer**
-
-- 🌱 Actualmente estoy aprendiendo **<b>Vuejs y Node.js</b>**
-
-- 👯 Todos mis proyectos estan disponibles en **<a href="https://github.com/darguello1998">Github</a> y <a href="https://codepen.io/denilson-arguello">Codepen</a>**
-
-- 💬 Puedes preguntarme todo sobre **php, javascript y css**
-
-- 📫 Puedes contactarme en mis redes sociales o en mi **<a href="mailto:contacto@denilsonarguello.com">Correo</a>**
-
-- 📄 ¿Quieres ver mis trabajos? [https://denilsonarguello.com/#trabajos](https://denilsonarguello.com/#trabajos)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/denilson-arguello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="denilson-arguello" height="30" width="40" /></a>
-<a href="https://dev.to/darguello1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="darguello1998" height="30" width="40" /></a>
-<a href="https://twitter.com/denilsonarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="denilsonarg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/denilson-arguello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="denilson-arguello" height="30" width="40" /></a>
-<a href="https://instagram.com/denilson_arg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="denilson_arg" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://eirete.us" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=440&lines=Desarrollador+Fullstack;Creando+mi+proyecto+actual+eirete.us" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Sobre mí
+
+- 🔭 Actualmente trabajo como **Freelancer**  
+- 🌱 Aprendiendo **react.js** y **typescript**  
+- 🛠️ Creo soluciones a medida
+- 📬 Puedes preguntarme sobre **PHP, JavaScript, CSS y Wordpress** 
+- 📄 Mira mis trabajos en 👉 [eirete.us](https://eirete.us/#trabajos)
+
+---
+
+### 🧪 Proyectos actuales
+
+🎯 **Rediseño de mi sitio personal** — [eirete.us](https://eirete.us)  
+Un sitio creativo, moderno y rápido para mostrar mis trabajos, proyectos personales y blog técnico.  
+🧰 Tecnologías: React, Markdown, CSS animado, Vercel, Typescript
+
+🧱 **Componentes UI Reusables en React**  
+Pequeña librería de componentes para acelerar mis futuros proyectos React.  
+🎨 Enfoque en accesibilidad, diseño minimalista y usabilidad.
+
+---
+
+### 🌍 Encuéntrame en la web
+
+<p align="left">
+  <a href="mailto:denilsonn1998@gmail.com"><img src="https://img.shields.io/badge/-Correo-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://codepen.io/denilsonlab" target="blank"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
+  <a href="https://dev.to/dlab" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
+  <a href="https://x.com/eireteus" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dlabb/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tecnologías favoritas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
+</p>
+
+---
+
+### 📦 Mis proyectos
+
+📌 Todos mis proyectos están disponibles en:  
+📁 [GitHub](https://github.com/DenilsonLab)  
+💡 [Codepen](https://codepen.io/denilson-arguello)
+
+#### Y también los iré mostrando en:  
+🌐 [eirete.us](https://eirete.us)  
+---
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmc0c2k5Z2prODVvd3hiMjFpdThyMDVpMWo0YnVsY3QyZXJ5cWhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  Gracias por visitar mi perfil, ¡nos vemos en el código! 🚀
+</p>
