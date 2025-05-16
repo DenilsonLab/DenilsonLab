@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Hola 👋, yo soy Denilson Arguello</h1>
-<h3 align="center">Un desarrollador web de Paraguay 🇵🇾 apasionado por la tecnología, el diseño y las ideas</h3>
+<h3 align="center">Un desarrollador web de Paraguay 🇵🇾 apasionado por la tecnología, la programación y los desafíos</h3>
 
 <p align="center">
   <a href="https://eirete.us" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=440&lines=Desarrollador+Fullstack;Creando+mi+proyecto+actual+eirete.us" /></a>
