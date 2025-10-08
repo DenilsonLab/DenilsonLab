@@ -77,6 +77,3 @@ Pequeña librería de componentes para acelerar mis futuros proyectos React.
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmc0c2k5Z2prODVvd3hiMjFpdThyMDVpMWo0YnVsY3QyZXJ5cWhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  Gracias por visitar mi perfil, ¡nos vemos en el código! 🚀
-</p>
