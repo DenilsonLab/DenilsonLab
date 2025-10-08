@@ -19,7 +19,7 @@
 
 ### 🧪 Proyectos actuales
 
-🎯 **Rediseño de mi sitio personal** — [edenilson.me](https://denilson.me)  
+🎯 **Rediseño de mi sitio personal** — [denilson.me](https://denilson.me)  
 Un sitio creativo, moderno y rápido para mostrar mis trabajos, proyectos personales y blog técnico.  
 🧰 Tecnologías: React, Markdown, CSS animado, Vercel, Typescript
 
