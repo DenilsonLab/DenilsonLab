@@ -13,13 +13,13 @@
 - 🌱 Aprendiendo **react.js** y **typescript**  
 - 🛠️ Creo soluciones a medida
 - 📬 Puedes preguntarme sobre **PHP, JavaScript, CSS y Wordpress** 
-- 📄 Mira mis trabajos en 👉 [eirete.us](https://eirete.us/#trabajos)
+- 📄 Mira mis trabajos en 👉 [denilson.me](https://denilson.me/)
 
 ---
 
 ### 🧪 Proyectos actuales
 
-🎯 **Rediseño de mi sitio personal** — [eirete.us](https://eirete.us)  
+🎯 **Rediseño de mi sitio personal** — [edenilson.me](https://denilson.me)  
 Un sitio creativo, moderno y rápido para mostrar mis trabajos, proyectos personales y blog técnico.  
 🧰 Tecnologías: React, Markdown, CSS animado, Vercel, Typescript
 
@@ -70,7 +70,7 @@ Pequeña librería de componentes para acelerar mis futuros proyectos React.
 💡 [Codepen](https://codepen.io/denilson-arguello)
 
 #### Y también los iré mostrando en:  
-🌐 [eirete.us](https://eirete.us)  
+🌐 [denilson.me](https://denilson.me)  
 ---
 
 <p align="center">
